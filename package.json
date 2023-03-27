@@ -1,5 +1,5 @@
 {
-  "name": "mydotwallet",
+  "name": "trbwallet",
   "version": "0.0.1",
   "scripts": {
     "build": "vue-cli-service build && cp dist/index.html dist/404.html",
